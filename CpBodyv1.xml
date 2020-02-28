@@ -1,0 +1,642 @@
+<ROOT><TABLE ID="CpBody">
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ001</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ002</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ003</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ004</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ005</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ006</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ007</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ008</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">160</PROP>
+        <PROP ID="BomBody">XYZ009</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ010</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ011</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ012</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ013</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ014</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">335</PROP>
+        <PROP ID="BomBody">XYZ015</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">385</PROP>
+        <PROP ID="BomBody">XYZ016</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ017</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ018</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ019</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ020</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ021</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ022</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ023</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ024</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">160</PROP>
+        <PROP ID="BomBody">XYZ025</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ026</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ027</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ028</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ029</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ030</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">335</PROP>
+        <PROP ID="BomBody">XYZ031</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">DA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">385</PROP>
+        <PROP ID="BomBody">XYZ032</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ033</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ034</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ035</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ036</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ037</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ038</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ039</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ040</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">160</PROP>
+        <PROP ID="BomBody">XYZ041</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ042</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ043</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ044</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ045</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ046</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">335</PROP>
+        <PROP ID="BomBody">XYZ047</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">385</PROP>
+        <PROP ID="BomBody">XYZ048</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ049</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ050</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ051</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ052</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ053</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ054</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ055</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ056</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">160</PROP>
+        <PROP ID="BomBody">XYZ057</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ058</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ059</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ060</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">250</PROP>
+        <PROP ID="BomBody">XYZ061</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">280</PROP>
+        <PROP ID="BomBody">XYZ062</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">335</PROP>
+        <PROP ID="BomBody">XYZ063</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
+        <PROP ID="CylSize">385</PROP>
+        <PROP ID="BomBody">XYZ064</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ065</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ066</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ067</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ068</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ069</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ070</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ071</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CI</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ072</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">080</PROP>
+        <PROP ID="BomBody">XYZ073</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">100</PROP>
+        <PROP ID="BomBody">XYZ074</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">130</PROP>
+        <PROP ID="BomBody">XYZ075</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ076</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">120</PROP>
+        <PROP ID="BomBody">XYZ077</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">140</PROP>
+        <PROP ID="BomBody">XYZ078</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">180</PROP>
+        <PROP ID="BomBody">XYZ079</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="ProductVersion">CP2.1</PROP>
+        <PROP ID="FailAction">SA</PROP>
+        <PROP ID="BodyMaterial">CS</PROP>
+        <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
+        <PROP ID="CylSize">200</PROP>
+        <PROP ID="BomBody">XYZ080</PROP>
+    </OBJECT>
+</TABLE>FalseFalse</ROOT>
