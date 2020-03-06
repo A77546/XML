@@ -1,5 +1,5 @@
 <ROOT>
-   <TABLE ID="Version">
+   <TABLE ID="ver">
       <OBJECT>
          <PROP ID="Version">v1</PROP>
       </OBJECT>
