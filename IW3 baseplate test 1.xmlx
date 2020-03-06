@@ -47,4 +47,13 @@
         <PROP ID="baseplate">IW5/A123</PROP>
         <PROP ID="notes">F40</PROP>
     </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="baseplate">IW5A1234</PROP>
+        <PROP ID="notes">F41 special</PROP>
+    </OBJECT>
+    <OBJECT>
+    </OBJECT>
 </TABLE>FalseFalse</ROOT>
