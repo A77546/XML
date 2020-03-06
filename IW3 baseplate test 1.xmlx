@@ -20,4 +20,10 @@
         <PROP ID="baseplate">IW3D155/99</PROP>
         <PROP ID="notes">F30</PROP>
     </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW4</PROP>
+        <PROP ID="BPNUMH">8</PROP>
+        <PROP ID="baseplate">zzz</PROP>
+        <PROP ID="notes">yyy</PROP>
+    </OBJECT>
 </TABLE>FalseFalse</ROOT>
