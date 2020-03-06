@@ -2,19 +2,22 @@
     <OBJECT>
         <PROP ID="GBOX">IW3</PROP>
         <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
         <PROP ID="baseplate">IW-00830-2-2</PROP>
         <PROP ID="notes">F10</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="GBOX">IW4</PROP>
         <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
         <PROP ID="baseplate">IW3D155/25</PROP>
         <PROP ID="notes">F25</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="GBOX">IW4</PROP>
         <PROP ID="BPNUMH">8</PROP>
-        <PROP ID="baseplate">IW3D155/25</PROP>
-        <PROP ID="notes">F25</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="baseplate">IW3D155/99</PROP>
+        <PROP ID="notes">F30</PROP>
     </OBJECT>
 </TABLE>FalseFalse</ROOT>
