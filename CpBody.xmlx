@@ -5,7 +5,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC123</PROP>
+        <PROP ID="BomBody">2820351010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -13,7 +13,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC124</PROP>
+        <PROP ID="BomBody">2820351030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -21,7 +21,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC125</PROP>
+        <PROP ID="BomBody">2820351010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -29,7 +29,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC126</PROP>
+        <PROP ID="BomBody">2820351030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -37,7 +37,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC127</PROP>
+        <PROP ID="BomBody">2820451010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -45,7 +45,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC128</PROP>
+        <PROP ID="BomBody">2820451030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -53,7 +53,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC129</PROP>
+        <PROP ID="BomBody">2820451010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -61,7 +61,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC130</PROP>
+        <PROP ID="BomBody">2820451030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -69,7 +69,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">160</PROP>
-        <PROP ID="BomBody">ABC131</PROP>
+        <PROP ID="BomBody">2820551010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -77,7 +77,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC132</PROP>
+        <PROP ID="BomBody">2820551030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -85,7 +85,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC133</PROP>
+        <PROP ID="BomBody">2820551010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -93,7 +93,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC134</PROP>
+        <PROP ID="BomBody">2820551030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -101,7 +101,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC135</PROP>
+        <PROP ID="BomBody">2820651010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -109,7 +109,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC136</PROP>
+        <PROP ID="BomBody">2820651010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -117,7 +117,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">335</PROP>
-        <PROP ID="BomBody">ABC137</PROP>
+        <PROP ID="BomBody">2820651010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -125,7 +125,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">385</PROP>
-        <PROP ID="BomBody">ABC138</PROP>
+        <PROP ID="BomBody">2820651010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -133,7 +133,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC139</PROP>
+        <PROP ID="BomBody">2820352010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -141,7 +141,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC140</PROP>
+        <PROP ID="BomBody">2820352030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -149,7 +149,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC141</PROP>
+        <PROP ID="BomBody">2820352010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -157,7 +157,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC142</PROP>
+        <PROP ID="BomBody">2820352030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -165,7 +165,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC143</PROP>
+        <PROP ID="BomBody">2820452010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -173,7 +173,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC144</PROP>
+        <PROP ID="BomBody">2820452030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -181,7 +181,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC145</PROP>
+        <PROP ID="BomBody">2820452010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -189,7 +189,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC146</PROP>
+        <PROP ID="BomBody">2820452030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -197,7 +197,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">160</PROP>
-        <PROP ID="BomBody">ABC147</PROP>
+        <PROP ID="BomBody">2820552010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -205,7 +205,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC148</PROP>
+        <PROP ID="BomBody">2820552030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -213,7 +213,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC149</PROP>
+        <PROP ID="BomBody">2820552010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -221,7 +221,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC150</PROP>
+        <PROP ID="BomBody">2820552030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -229,7 +229,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC151</PROP>
+        <PROP ID="BomBody">2820652010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -237,7 +237,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC152</PROP>
+        <PROP ID="BomBody">2820652010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -245,7 +245,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">335</PROP>
-        <PROP ID="BomBody">ABC153</PROP>
+        <PROP ID="BomBody">2820652010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -253,7 +253,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">385</PROP>
-        <PROP ID="BomBody">ABC154</PROP>
+        <PROP ID="BomBody">2820652010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -261,7 +261,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC155</PROP>
+        <PROP ID="BomBody">2820351000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -269,7 +269,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC156</PROP>
+        <PROP ID="BomBody">2820351020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -277,7 +277,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC157</PROP>
+        <PROP ID="BomBody">2820351000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -285,7 +285,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC158</PROP>
+        <PROP ID="BomBody">2820351000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -293,7 +293,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC159</PROP>
+        <PROP ID="BomBody">2820451000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -301,7 +301,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC160</PROP>
+        <PROP ID="BomBody">2820451020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -309,7 +309,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC161</PROP>
+        <PROP ID="BomBody">2820451000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -317,7 +317,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC162</PROP>
+        <PROP ID="BomBody">2820451000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -325,7 +325,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">160</PROP>
-        <PROP ID="BomBody">ABC163</PROP>
+        <PROP ID="BomBody">2820551000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -333,7 +333,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC164</PROP>
+        <PROP ID="BomBody">2820551020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -341,7 +341,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC165</PROP>
+        <PROP ID="BomBody">2820551000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -349,7 +349,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC166</PROP>
+        <PROP ID="BomBody">2820551000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -357,7 +357,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC167</PROP>
+        <PROP ID="BomBody">2820651000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -365,7 +365,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC168</PROP>
+        <PROP ID="BomBody">2820651000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -373,7 +373,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">335</PROP>
-        <PROP ID="BomBody">ABC169</PROP>
+        <PROP ID="BomBody">2820651000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -381,7 +381,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">385</PROP>
-        <PROP ID="BomBody">ABC170</PROP>
+        <PROP ID="BomBody">2820651000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -389,7 +389,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC171</PROP>
+        <PROP ID="BomBody">2820352000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -397,7 +397,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC172</PROP>
+        <PROP ID="BomBody">2820352020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -405,7 +405,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC173</PROP>
+        <PROP ID="BomBody">2820352000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -413,7 +413,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC174</PROP>
+        <PROP ID="BomBody">2820352000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -421,7 +421,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC175</PROP>
+        <PROP ID="BomBody">2820452000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -429,7 +429,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC176</PROP>
+        <PROP ID="BomBody">2820452020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -437,7 +437,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC177</PROP>
+        <PROP ID="BomBody">2820452000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -445,7 +445,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC178</PROP>
+        <PROP ID="BomBody">2820452000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -453,7 +453,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">160</PROP>
-        <PROP ID="BomBody">ABC179</PROP>
+        <PROP ID="BomBody">2820552000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -461,7 +461,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC180</PROP>
+        <PROP ID="BomBody">2820552020</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -469,7 +469,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC181</PROP>
+        <PROP ID="BomBody">2820552000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -477,7 +477,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~55</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC182</PROP>
+        <PROP ID="BomBody">2820552000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -485,7 +485,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">250</PROP>
-        <PROP ID="BomBody">ABC183</PROP>
+        <PROP ID="BomBody">2820652000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -493,7 +493,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">280</PROP>
-        <PROP ID="BomBody">ABC184</PROP>
+        <PROP ID="BomBody">2820652000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -501,7 +501,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">335</PROP>
-        <PROP ID="BomBody">ABC185</PROP>
+        <PROP ID="BomBody">2820652000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2</PROP>
@@ -509,7 +509,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~65</PROP>
         <PROP ID="CylSize">385</PROP>
-        <PROP ID="BomBody">ABC186</PROP>
+        <PROP ID="BomBody">2820652000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -517,7 +517,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC187</PROP>
+        <PROP ID="BomBody">2820353000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -525,7 +525,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC188</PROP>
+        <PROP ID="BomBody">2820353010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -533,7 +533,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC189</PROP>
+        <PROP ID="BomBody">2820353000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -541,7 +541,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC190</PROP>
+        <PROP ID="BomBody">2820353000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -549,7 +549,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC191</PROP>
+        <PROP ID="BomBody">2820453000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -557,7 +557,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC192</PROP>
+        <PROP ID="BomBody">2820453010</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -565,7 +565,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC193</PROP>
+        <PROP ID="BomBody">2820453000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -573,7 +573,7 @@
         <PROP ID="BodyMaterial">CI</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC194</PROP>
+        <PROP ID="BomBody">2820453000</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -581,7 +581,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">080</PROP>
-        <PROP ID="BomBody">ABC195</PROP>
+        <PROP ID="BomBody">2820353030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -589,7 +589,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">100</PROP>
-        <PROP ID="BomBody">ABC196</PROP>
+        <PROP ID="BomBody">2820353040</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -597,7 +597,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">130</PROP>
-        <PROP ID="BomBody">ABC197</PROP>
+        <PROP ID="BomBody">2820353030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -605,7 +605,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~35</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC198</PROP>
+        <PROP ID="BomBody">2820353030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -613,7 +613,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">120</PROP>
-        <PROP ID="BomBody">ABC199</PROP>
+        <PROP ID="BomBody">2820453030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -621,7 +621,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">140</PROP>
-        <PROP ID="BomBody">ABC200</PROP>
+        <PROP ID="BomBody">2820453040</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -629,7 +629,7 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">180</PROP>
-        <PROP ID="BomBody">ABC201</PROP>
+        <PROP ID="BomBody">2820453030</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="ProductVersion">CP2.1</PROP>
@@ -637,6 +637,6 @@
         <PROP ID="BodyMaterial">CS</PROP>
         <PROP ID="BodySize">vlsRfsMtgKitActSize~45</PROP>
         <PROP ID="CylSize">200</PROP>
-        <PROP ID="BomBody">ABC202</PROP>
+        <PROP ID="BomBody">2820453030</PROP>
     </OBJECT>
 </TABLE>FalseFalse</ROOT>
