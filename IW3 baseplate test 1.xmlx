@@ -23,7 +23,7 @@
     <OBJECT>
         <PROP ID="GBOX">IW4</PROP>
         <PROP ID="BPNUMH">8</PROP>
-        <PROP ID="BPHOLED">*</PROP>
+        <PROP ID="BPHOLED">13</PROP>
         <PROP ID="baseplate">zzz</PROP>
         <PROP ID="notes">yyy</PROP>
     </OBJECT>
