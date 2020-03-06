@@ -1,4 +1,10 @@
-<ROOT><TABLE ID="IW3_baseplate_test">
+<ROOT>
+   <TABLE ID="v1">
+      <OBJECT>
+         <PROP ID="Version">v1</PROP>
+      </OBJECT>
+   </TABLE>
+   <TABLE ID="IW3_baseplate_test">
     <OBJECT>
         <PROP ID="GBOX">IW3</PROP>
         <PROP ID="BPNUMH">4</PROP>
@@ -24,8 +30,8 @@
         <PROP ID="GBOX">IW4</PROP>
         <PROP ID="BPNUMH">8</PROP>
         <PROP ID="BPHOLED">13</PROP>
-        <PROP ID="baseplate">zzz</PROP>
-        <PROP ID="notes">yyy</PROP>
+        <PROP ID="baseplate">IW4D123/1</PROP>
+        <PROP ID="notes">F60</PROP>
     </OBJECT>
     <OBJECT>
         <PROP ID="GBOX">IW4</PROP>
