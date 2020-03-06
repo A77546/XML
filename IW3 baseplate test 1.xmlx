@@ -1,7 +1,7 @@
 <ROOT>
    <TABLE ID="Version">
       <OBJECT>
-         <PROP ID="Version">v2</PROP>
+         <PROP ID="Version">v3</PROP>
       </OBJECT>
    </TABLE>FalseFalse
    <TABLE ID="IW3_baseplate_test">
@@ -55,5 +55,10 @@
         <PROP ID="notes">F41 special</PROP>
     </OBJECT>
     <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="baseplate">IW5A1212</PROP>
+        <PROP ID="notes">F41 very special</PROP>
     </OBJECT>
 </TABLE>FalseFalse</ROOT>
