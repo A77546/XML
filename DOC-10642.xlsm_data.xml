@@ -1,0 +1,71 @@
+<ROOT>
+   <TABLE ID="Version">
+      <OBJECT>
+         <PROP ID="Version">0-0</PROP>
+      </OBJECT>
+   </TABLE>FalseFalse
+   <TABLE ID="IW3_baseplate_test_1">
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="baseplate">IW-00830-2-2</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW4</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="baseplate">IW3D155/25</PROP>
+        <PROP ID="notes">F25</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW4</PROP>
+        <PROP ID="BPNUMH">8</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="baseplate">IW3D155/99</PROP>
+        <PROP ID="notes">F30</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW4</PROP>
+        <PROP ID="BPNUMH">8</PROP>
+        <PROP ID="BPHOLED">13</PROP>
+        <PROP ID="baseplate">IW4D123/1</PROP>
+        <PROP ID="notes">F60</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW4</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">25</PROP>
+        <PROP ID="baseplate">IW3D123/56</PROP>
+        <PROP ID="notes">F35</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">25</PROP>
+        <PROP ID="baseplate">IW5/A123</PROP>
+        <PROP ID="notes">F40</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="baseplate">IW5A1234</PROP>
+        <PROP ID="notes">F41 special</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="baseplate">IW5A1212</PROP>
+        <PROP ID="notes">F41 very special</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW5</PROP>
+        <PROP ID="BPNUMH">12</PROP>
+        <PROP ID="BPHOLED">14</PROP>
+        <PROP ID="baseplate">IW45A1214</PROP>
+        <PROP ID="notes">super special</PROP>
+    </OBJECT>
+</TABLE>FalseFalse</ROOT>
