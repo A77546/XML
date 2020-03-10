@@ -1,0 +1,86 @@
+<?xml version="1.0"?><CLASS ID="Structure" LABEL="Structure" TYPE="" VERSION="1.0.0" ISINTERFACE="false" ACTIVE="false" XSLDATASOURCE="DOC-10642.xlsm_model.xml">
+  <PROPERTIES>
+    <PROPERTY ID="XMLFileLocation" LABEL="XML File Location" TYPE="String" VALUE="https://a77546.github.io/XML/DOC-10642.xlsm_data.xml" SEQNO="1" USED="1:1"></PROPERTY>
+    <PROPERTY ID="ConnectionXMLFileRotork" LABEL="ConnectionXMLFileRotork" TYPE="String" VISIBLE="false" SEQNO="2" USED="1:1,2"></PROPERTY>
+    <PROPERTY ID="Version" LABEL="Version" TYPE="String" SEQNO="3" STYLE="key:true;keyno:1"></PROPERTY>
+    <PROPERTY ID="baseplate" LABEL="Baseplate part number" TYPE="String" SEQNO="7"></PROPERTY>
+    <PROPERTY ID="notes" LABEL="Notes" TYPE="String" SEQNO="8"></PROPERTY>
+  </PROPERTIES>
+  <REFERENCES>
+    <REFERENCE ID="GBOX" LABEL="Gearbox" TYPE="String" DYNAMIC="true" SEQNO="4" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" DYNAMIC="true" SEQNO="5" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" DYNAMIC="true" SEQNO="6" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+  </REFERENCES>
+  <RULES LABEL="Rules" DESCRIPTION="">
+    <RULE LABEL="Connection">
+      <CONDITION>XMLFileLocation&lt;&gt;""</CONDITION>
+      <IMPLICATION>ConnectionXMLFileRotork = "driver=Xml;FILE=" &amp; XMLFileLocation &amp; ";cache=false" ;
+                   Version = GetStringValue(ConnectionXMLFileRotork ; "Version" ; "Version" );</IMPLICATION>
+      <DESCRIPTION>Connection</DESCRIPTION>
+      <LHS>;connectionxmlfilerotork@value;version@value;</LHS>
+    </RULE>
+    <RULE LABEL="GetValues@Options">
+      <CONDITION>true</CONDITION>
+      <IMPLICATION>
+local string GBOXFilter = GBOX
+local string BPNUMHFilter = BPNUMH
+local string BPHOLEDFilter = BPHOLED
+if GBOX == "" then GBOXFilter = "*" end if;
+if BPNUMH == "" then BPNUMHFilter = "*" end if;
+if BPHOLED == "" then BPHOLEDFilter = "*" end if;
+GBOX@Options = GetOptions(GBOX@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ) ;
+BPNUMH@Options = GetOptions(BPNUMH@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ) ;
+BPHOLED@Options = GetOptions(BPHOLED@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ) ;
+baseplate = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "baseplate" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ) ;
+notes = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "notes" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ) ;
+      </IMPLICATION>
+      <DESCRIPTION>GetValues@Options</DESCRIPTION>
+      <LHS>;GBOX@options;BPNUMH@options;BPHOLED@options;baseplate@value;notes@value;</LHS>
+    </RULE>
+  </RULES>
+  <COLUMNS>
+   <COLUMN ID="Questions" LABEL="" FORMAT="" WIDTH="250" />
+    <COLUMN ID="Answers" LABEL="" FORMAT="" WIDTH="500" />
+  </COLUMNS>
+  <LIBRARIES>
+    <LIBRARY ID="eCon.Data.Functions" LABEL="eCon.Data.Functions" />
+    <LIBRARY ID="eCon.UI.Tasks.Functions" LABEL="eCon.UI.Tasks.Functions" />
+  </LIBRARIES>
+</CLASS>
+
