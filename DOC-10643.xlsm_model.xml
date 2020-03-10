@@ -1,0 +1,362 @@
+<?xml version="1.0"?><CLASS ID="Structure" LABEL="Structure" TYPE="" VERSION="1.0.0" ISINTERFACE="false" ACTIVE="false" XSLDATASOURCE="DOC-10643.xlsm_model.xml">
+  <PROPERTIES>
+    <PROPERTY ID="XMLFileLocation" LABEL="XML File Location" TYPE="String" VALUE="https://a77546.github.io/XML/DOC-10643.xlsm_data.xml" SEQNO="1" USED="1:1"></PROPERTY>
+    <PROPERTY ID="ConnectionXMLFileRotork" LABEL="ConnectionXMLFileRotork" TYPE="String" VISIBLE="false" SEQNO="2" USED="1:1,2"></PROPERTY>
+    <PROPERTY ID="Version" LABEL="Version" TYPE="String" SEQNO="3" STYLE="key:true;keyno:1"></PROPERTY>
+    <PROPERTY ID="BPFLATFL" LABEL="BPFLATFL" TYPE="String" SEQNO="14"></PROPERTY>
+    <PROPERTY ID="OSEXT" LABEL="OSEXT" TYPE="String" SEQNO="15"></PROPERTY>
+    <PROPERTY ID="baseplate" LABEL="Baseplate part number" TYPE="String" SEQNO="16"></PROPERTY>
+    <PROPERTY ID="notes" LABEL="Notes" TYPE="String" SEQNO="17"></PROPERTY>
+  </PROPERTIES>
+  <REFERENCES>
+    <REFERENCE ID="GBOX" LABEL="Gearbox" TYPE="String" DYNAMIC="true" SEQNO="4" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" DYNAMIC="true" SEQNO="5" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" DYNAMIC="true" SEQNO="6" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" DYNAMIC="true" SEQNO="7" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPCENTRE" LABEL="On/off centers" TYPE="String" DYNAMIC="true" SEQNO="8" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" DYNAMIC="true" SEQNO="9" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" DYNAMIC="true" SEQNO="10" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="BPFLATN" LABEL="Baseplate style" TYPE="String" DYNAMIC="true" SEQNO="11" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" DYNAMIC="true" SEQNO="12" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+    <REFERENCE ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" DYNAMIC="true" SEQNO="13" USED="1:2">
+      <TEMPLATE ID="Template" LABEL="Template" TYPE="">
+       <PROPERTIES>
+          <PROPERTY ID="SPGTDIA" LABEL="Spigot diameter" TYPE="String" VISIBLE="false" SEQNO="1" STYLE="key:true; keyno:1; "></PROPERTY>
+          <PROPERTY ID="GBOX" LABEL="Gearbox" TYPE="String" VISIBLE="false" SEQNO="2"></PROPERTY>
+          <PROPERTY ID="BPNUMH" LABEL="Baseplate number of holes" TYPE="String" VISIBLE="false" SEQNO="3"></PROPERTY>
+          <PROPERTY ID="BPHOLED" LABEL="Baseplate hole size" TYPE="String" VISIBLE="false" SEQNO="4"></PROPERTY>
+          <PROPERTY ID="BPPCD" LABEL="Baseplate holes PCD" TYPE="String" VISIBLE="false" SEQNO="5"></PROPERTY>
+          <PROPERTY ID="BPCENTRE" LABEL="On/off centers" TYPE="String" VISIBLE="false" SEQNO="6"></PROPERTY>
+          <PROPERTY ID="BPDOWELD" LABEL="Dowel hole diameter" TYPE="String" VISIBLE="false" SEQNO="7"></PROPERTY>
+          <PROPERTY ID="BPNUMDOW" LABEL="Number of dowel holes" TYPE="String" VISIBLE="false" SEQNO="8"></PROPERTY>
+          <PROPERTY ID="BPFLATN" LABEL="Baseplate style" TYPE="String" VISIBLE="false" SEQNO="9"></PROPERTY>
+          <PROPERTY ID="SPIGOT" LABEL="Spigot Y/N" TYPE="String" VISIBLE="false" SEQNO="10"></PROPERTY>
+        </PROPERTIES>
+      </TEMPLATE>
+    </REFERENCE>
+  </REFERENCES>
+  <RULES LABEL="Rules" DESCRIPTION="">
+    <RULE LABEL="Connection">
+      <CONDITION>XMLFileLocation&lt;&gt;""</CONDITION>
+      <IMPLICATION>ConnectionXMLFileRotork = "driver=Xml;FILE=" &amp; XMLFileLocation &amp; ";cache=false" ;
+                   Version = GetStringValue(ConnectionXMLFileRotork ; "Version" ; "Version" );</IMPLICATION>
+      <DESCRIPTION>Connection</DESCRIPTION>
+      <LHS>;connectionxmlfilerotork@value;version@value;</LHS>
+    </RULE>
+    <RULE LABEL="GetValues@Options">
+      <CONDITION>true</CONDITION>
+      <IMPLICATION>
+local string GBOXFilter = GBOX
+local string BPNUMHFilter = BPNUMH
+local string BPHOLEDFilter = BPHOLED
+local string BPPCDFilter = BPPCD
+local string BPCENTREFilter = BPCENTRE
+local string BPDOWELDFilter = BPDOWELD
+local string BPNUMDOWFilter = BPNUMDOW
+local string BPFLATNFilter = BPFLATN
+local string SPIGOTFilter = SPIGOT
+local string SPGTDIAFilter = SPGTDIA
+if GBOX == "" then GBOXFilter = "*" end if;
+if BPNUMH == "" then BPNUMHFilter = "*" end if;
+if BPHOLED == "" then BPHOLEDFilter = "*" end if;
+if BPPCD == "" then BPPCDFilter = "*" end if;
+if BPCENTRE == "" then BPCENTREFilter = "*" end if;
+if BPDOWELD == "" then BPDOWELDFilter = "*" end if;
+if BPNUMDOW == "" then BPNUMDOWFilter = "*" end if;
+if BPFLATN == "" then BPFLATNFilter = "*" end if;
+if SPIGOT == "" then SPIGOTFilter = "*" end if;
+if SPGTDIA == "" then SPGTDIAFilter = "*" end if;
+GBOX@Options = GetOptions(GBOX@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPNUMH@Options = GetOptions(BPNUMH@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPHOLED@Options = GetOptions(BPHOLED@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPPCD@Options = GetOptions(BPPCD@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPCENTRE@Options = GetOptions(BPCENTRE@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPDOWELD@Options = GetOptions(BPDOWELD@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPNUMDOW@Options = GetOptions(BPNUMDOW@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+BPFLATN@Options = GetOptions(BPFLATN@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+SPIGOT@Options = GetOptions(SPIGOT@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPGTDIA" ; "=" ; SPGTDIAFilter ) ;
+SPGTDIA@Options = GetOptions(SPGTDIA@localName; true; ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ;
+                            "GBOX" ; "=" ; GBOXFilter ;
+                            "BPNUMH" ; "=" ; BPNUMHFilter ;
+                            "BPHOLED" ; "=" ; BPHOLEDFilter ;
+                            "BPPCD" ; "=" ; BPPCDFilter ;
+                            "BPCENTRE" ; "=" ; BPCENTREFilter ;
+                            "BPDOWELD" ; "=" ; BPDOWELDFilter ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOWFilter ;
+                            "BPFLATN" ; "=" ; BPFLATNFilter ;
+                            "SPIGOT" ; "=" ; SPIGOTFilter ) ;
+BPFLATFL = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "BPFLATFL" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ;
+                            "BPPCD" ; "=" ; BPPCD ;
+                            "BPCENTRE" ; "=" ; BPCENTRE ;
+                            "BPDOWELD" ; "=" ; BPDOWELD ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOW ;
+                            "BPFLATN" ; "=" ; BPFLATN ;
+                            "SPIGOT" ; "=" ; SPIGOT ;
+                            "SPGTDIA" ; "=" ; SPGTDIA ) ;
+OSEXT = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "OSEXT" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ;
+                            "BPPCD" ; "=" ; BPPCD ;
+                            "BPCENTRE" ; "=" ; BPCENTRE ;
+                            "BPDOWELD" ; "=" ; BPDOWELD ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOW ;
+                            "BPFLATN" ; "=" ; BPFLATN ;
+                            "SPIGOT" ; "=" ; SPIGOT ;
+                            "SPGTDIA" ; "=" ; SPGTDIA ) ;
+baseplate = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "baseplate" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ;
+                            "BPPCD" ; "=" ; BPPCD ;
+                            "BPCENTRE" ; "=" ; BPCENTRE ;
+                            "BPDOWELD" ; "=" ; BPDOWELD ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOW ;
+                            "BPFLATN" ; "=" ; BPFLATN ;
+                            "SPIGOT" ; "=" ; SPIGOT ;
+                            "SPGTDIA" ; "=" ; SPGTDIA ) ;
+notes = GetStringValue(ConnectionXMLFileRotork ; "IW3_baseplate_test_1" ; "notes" ;
+                            "GBOX" ; "=" ; GBOX ;
+                            "BPNUMH" ; "=" ; BPNUMH ;
+                            "BPHOLED" ; "=" ; BPHOLED ;
+                            "BPPCD" ; "=" ; BPPCD ;
+                            "BPCENTRE" ; "=" ; BPCENTRE ;
+                            "BPDOWELD" ; "=" ; BPDOWELD ;
+                            "BPNUMDOW" ; "=" ; BPNUMDOW ;
+                            "BPFLATN" ; "=" ; BPFLATN ;
+                            "SPIGOT" ; "=" ; SPIGOT ;
+                            "SPGTDIA" ; "=" ; SPGTDIA ) ;
+      </IMPLICATION>
+      <DESCRIPTION>GetValues@Options</DESCRIPTION>
+      <LHS>;GBOX@options;BPNUMH@options;BPHOLED@options;BPPCD@options;BPCENTRE@options;BPDOWELD@options;BPNUMDOW@options;BPFLATN@options;SPIGOT@options;SPGTDIA@options;BPFLATFL@value;OSEXT@value;baseplate@value;notes@value;</LHS>
+    </RULE>
+  </RULES>
+  <COLUMNS>
+   <COLUMN ID="Questions" LABEL="" FORMAT="" WIDTH="250" />
+    <COLUMN ID="Answers" LABEL="" FORMAT="" WIDTH="500" />
+  </COLUMNS>
+  <LIBRARIES>
+    <LIBRARY ID="eCon.Data.Functions" LABEL="eCon.Data.Functions" />
+    <LIBRARY ID="eCon.UI.Tasks.Functions" LABEL="eCon.UI.Tasks.Functions" />
+  </LIBRARIES>
+</CLASS>
+
