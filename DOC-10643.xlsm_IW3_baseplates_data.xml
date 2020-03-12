@@ -1,0 +1,940 @@
+<ROOT>
+   <TABLE ID="Version">
+      <OBJECT>
+         <PROP ID="Version">2</PROP>
+      </OBJECT>
+   </TABLE>FalseFalse
+   <TABLE ID="Bases">
+    <OBJECT>
+        <PROP ID="BASE">F10</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="BASE">F14</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="BASE">F16</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+    </OBJECT>
+   </TABLE>
+   <TABLE ID="IW3_baseplates">
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.375</PROP>
+        <PROP ID="BPPCD">4</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">IW-00830-2-2</PROP>
+        <PROP ID="notes">FA10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.375</PROP>
+        <PROP ID="BPPCD">5.25</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0.47</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/18</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.5</PROP>
+        <PROP ID="BPPCD">4.95</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">IW-00830-4-2</PROP>
+        <PROP ID="notes">FA12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.75</PROP>
+        <PROP ID="BPPCD">6.75</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/2</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.625</PROP>
+        <PROP ID="BPPCD">5.5</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/39</PROP>
+        <PROP ID="notes">FA14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.625</PROP>
+        <PROP ID="BPPCD">6</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/19</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">0.75</PROP>
+        <PROP ID="BPPCD">6.5</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/10</PROP>
+        <PROP ID="notes">FA16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">82.5</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">2038918</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">IW-00830-1-2</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/13</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/13</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/13</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">8</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/15</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/22</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/29</PROP>
+        <PROP ID="notes">F10</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">150</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/11</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">150</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/9</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">150</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/5</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">8</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">90</PROP>
+        <PROP ID="BPCENTRE">ON</PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/25</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">8</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">90</PROP>
+        <PROP ID="BPCENTRE">OFF</PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155-27</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">IW-00830-3-1</PROP>
+        <PROP ID="notes">F12 </PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">IW-00830-3-2</PROP>
+        <PROP ID="notes">F12 </PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/17</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/17</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/17</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">Y</PROP>
+        <PROP ID="SPGTDIA">85</PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW-03045-1</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">8</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/24</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">8</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/34</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155-28</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155-36</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/14</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/20</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/12</PROP>
+        <PROP ID="notes">F12</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">125</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16.2</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/16</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">127</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">Y</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">11</PROP>
+        <PROP ID="OSEXT">4</PROP>
+        <PROP ID="baseplate">2039203</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">12</PROP>
+        <PROP ID="BPPCD">155</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">0</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">R</PROP>
+        <PROP ID="SPGTDIA">100</PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">21</PROP>
+        <PROP ID="baseplate">IW3A374</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/26</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">Y</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">21</PROP>
+        <PROP ID="baseplate">IW-02499-1</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/35</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/40</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/4</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/21</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">14</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/43</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">14</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/31</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/6</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/23</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16.5</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/37</PROP>
+        <PROP ID="notes">F14</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">18</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16.2</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/8</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW"></PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/7</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/7</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">0</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/7</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">10</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/33</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">12</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/41</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">2</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/1</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">14</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/32</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/3</PROP>
+        <PROP ID="notes"></PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="GBOX">IW3</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+        <PROP ID="BPCENTRE"></PROP>
+        <PROP ID="BPDOWELD">16.5</PROP>
+        <PROP ID="BPNUMDOW">4</PROP>
+        <PROP ID="BPFLATN">ENH</PROP>
+        <PROP ID="SPIGOT">N</PROP>
+        <PROP ID="SPGTDIA"></PROP>
+        <PROP ID="BPFLATFL">14</PROP>
+        <PROP ID="OSEXT">26</PROP>
+        <PROP ID="baseplate">IW3D155/38</PROP>
+        <PROP ID="notes">F16</PROP>
+    </OBJECT>
+</TABLE>FalseFalse</ROOT>
