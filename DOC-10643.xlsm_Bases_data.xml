@@ -1,0 +1,26 @@
+<ROOT>
+   <TABLE ID="Version">
+      <OBJECT>
+         <PROP ID="Version">2</PROP>
+      </OBJECT>
+   </TABLE>FalseFalse
+   <TABLE ID="Bases">
+    <OBJECT>
+        <PROP ID="BASE">F10</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">10</PROP>
+        <PROP ID="BPPCD">102</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="BASE">F14</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">16</PROP>
+        <PROP ID="BPPCD">140</PROP>
+    </OBJECT>
+    <OBJECT>
+        <PROP ID="BASE">F16</PROP>
+        <PROP ID="BPNUMH">4</PROP>
+        <PROP ID="BPHOLED">20</PROP>
+        <PROP ID="BPPCD">165</PROP>
+    </OBJECT>
+</TABLE>FalseFalse</ROOT>
